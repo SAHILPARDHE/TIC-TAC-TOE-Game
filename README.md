@@ -1,28 +1,14 @@
-This project presents a fully responsive and modern Tic-Tac-Toe game engineered with HTML, CSS, and JavaScript. It provides an intuitive two-player experience with real-time win and draw detection, highlighted winning sequences, and integrated controls for restarting matches or resetting the scoreboard.
-Designed with clean code architecture and best UI/UX practices, the application showcases essential front-end development skills including DOM manipulation, modular JavaScript logic, event handling, and responsive layout techniques. The project is lightweight, fast, and fully configured for seamless deployment via GitHub Pages.
+A clean, responsive, and modern Tic-Tac-Toe game built using HTML, CSS, and JavaScript. This project offers smooth two-player gameplay, automatic win and draw detection, and highlighted winning combinations. Designed with a minimal UI and clean code architecture, it showcases essential front-end skills such as DOM manipulation, game state management, event handling, and responsive layout design.
 
 ⭐ Features
+  - Two-player (X vs O) gameplay
+  - Real-time win/draw detection
+  - Highlights winning line
+  - Restart and reset score options
+  - Modern and responsive UI
+  - Clean and beginner-friendly JavaScript logic
 
-✔️ Two-player (X vs O)
-
-✔️ Highlights winning combination
-
-✔️ Detects wins, losses & draws
-
-✔️ Restart game instantly
-
-✔️ Reset scoreboard
-
-✔️ Clean UI and intuitive gameplay
-
-✔️ Fully responsive (mobile + tablet + desktop)
-
-✔️ 100% GitHub Pages compatible
-
-🛠️ Tech Stack
-
-HTML5 for structure
-
-CSS3 for styling and responsiveness
-
-JavaScript (ES6+) for game logic
+🛠️ Technologies Used
+  - HTML5 – structure and layout
+  - CSS3 – styling and responsiveness
+  - JavaScript (ES6+) – game logic and interactions
